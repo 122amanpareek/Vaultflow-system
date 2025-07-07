@@ -18,8 +18,8 @@ jobs:
 
     - name: Set Git Identity
       run: |
-        git config --global user.name "SaurabhCodesAI"
-        git config --global user.email "saurabhpareek228@gmail.com"
+        git config --global user.name "122amanpareek"
+        git config --global user.email "122amanpareek@gmail.com"
 
     - name: Sync Activity Logs
       run: |
